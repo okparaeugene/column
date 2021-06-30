@@ -1,0 +1,28 @@
+#bb:hover{
+    background-color: transparent;
+    color: white;
+    
+}
+
+.dg{
+    background-color: darkgreen;
+}
+
+#lg{
+    background-color: lightseagreen;
+}
+
+.or{
+    background-color: orange;
+}
+
+.oc{
+    color: orange;
+}
+.lbb{
+    color: lightseagreen;
+}
+
+.llb{
+    color: darkgreen;
+}
